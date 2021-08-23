@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @feyzayigiter
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML, CSS, JS
+- 🌱 I’m currently learning JS and React
 - 📫 How to reach me feyzayigiter@gmail.com
 
 <!---
